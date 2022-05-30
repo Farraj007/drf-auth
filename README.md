@@ -26,4 +26,4 @@ on your browser http://127.0.0.1:8000
 ```
 
 
-
+![Image](./token%20auth.jpg)
